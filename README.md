@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kirtirajthakor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtirajthakor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kirtiraj-thakor-0a5440204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirtiraj-thakor-0a5440204/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kirtiraj-thakor-0a5440204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirtiraj-thakor-0a5440204/" height="30" width="40" /></a>
 <a href="https://instagram.com/kirtiraj_thakor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirtiraj_thakor" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kirtiraj12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kirtiraj12" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kirtiraj12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kirtiraj12" height="30" width="40" /></a>
