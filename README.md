@@ -10,11 +10,9 @@
 	
 # 📊 GitHub Stats:
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kirtiraj22&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtiraj22&theme=radical"/>
-	<details>
-  <summary><b>:zap:TOP LANGUAGE </b></summary>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtiraj22&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kirtiraj22&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kirtiraj22&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtiraj22&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kirtiraj22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
