@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing B.Tech in Computer Science Engineering from Drs.Kiran and Pallavi Patel Global University ,Vadodara<br><br>🌱 I’m currently Exploring web3.<br><br>📫 How to reach me kirtirajpatanwadia064@gmail.com
+🔭 I’m currently pursuing B.Tech in Computer Science Engineering from Drs.Kiran and Pallavi Patel Global University ,Vadodara<br><br>🌱 I’m currently Exploring web3.<br><br>📫 How to reach me kirtirajthakor064@gmail.com
 
 
 ## 🌐 Socials:
