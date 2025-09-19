@@ -33,13 +33,13 @@
 _Fully on-chain typing game on Solana where each keystroke is a transaction._  
 Tech: Magicblock, Anchor, Next.js
 
-**Codeo** | [GitHub](https://github.com/your-codeo-repo) | [editor-codeo.vercel.app](https://editor-codeo.vercel.app)  
+**Codeo** | [GitHub](https://github.com/kirtiraj22/codeo) | [editor-codeo.vercel.app](https://editor-codeo.vercel.app)  
 _Online code editor to write, run, and share code snippets in multiple languages._
 
-**CopperX Telegram Bot** | [GitHub](https://github.com/your-copperx-repo)  
+**CopperX Telegram Bot** | [GitHub](https://github.com/kirtiraj22/CopperX-TG-bot)  
 _Telegram bot that allows users to manage their CopperX wallet and perform on-chain transactions._
 
-**Rydo Backend** | [GitHub](https://github.com/your-rydo-backend)  
+**Rydo Backend** | [GitHub](https://github.com/kirtiraj22/rydo-backend)  
 _Backend system powering a ride-sharing app on Solana. Handles user auth, ride logic, and core services._
 
 </details>
@@ -51,10 +51,10 @@ _Backend system powering a ride-sharing app on Solana. Handles user auth, ride l
 
 <br/>
 
-**Escrow Program** | [GitHub](https://github.com/your-escrow-repo)  
+**Escrow Program** | [GitHub](https://github.com/kirtiraj22/escrow)  
 _Trustless escrow contract built with Solana & Anchor. Allows secure token exchanges between two parties._
 
-**Solana DeFi Analytics MCP Server** | [GitHub](https://github.com/your-mcp-repo)  
+**Solana DeFi Analytics MCP Server** | [GitHub](https://github.com/kirtiraj22/Solana-DeFi-Analytics-MCP-Server)  
 _Model Context Protocol server that delivers wallet-level analytics and insights into DeFi activities on Solana._
 
 </details>
